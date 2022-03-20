@@ -24,6 +24,7 @@ namespace TestProject
         {
             InitializeComponent();
             Console.WriteLine("Afros");
+            Console.WriteLine("Anton");
         }
     }
 }
